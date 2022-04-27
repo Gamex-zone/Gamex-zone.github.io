@@ -19,6 +19,20 @@ h4 {
   
 }
 
+#top-jeux{
+    color: white;
+    text-align: center;
+}
+
+.text-top-jeux {
+    color: white;
+}
+
+#nom-top-jeux {
+    color: white;
+
+}
+
 .left { float: left; display: inline; }
 .right { float: right; display: inline; }
 
