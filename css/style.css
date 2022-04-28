@@ -14,10 +14,10 @@ a img { border: 0; }
 a { color: #a0a0a0; text-decoration: underline; }
 a:hover { text-decoration: none; }
 
-h4 { 
-    font-size: 5%;
-  
-}
+
+
+/***************  Partie Top jeux payant ********************/
+
 
 #top-jeux{
     color: white;
@@ -31,6 +31,47 @@ h4 {
 #nom-top-jeux {
     color: white;
 
+}
+
+
+/************************** Partie Auteur ***************/
+.auteur{ 
+    display: flex;
+    justify-content: inline-block
+}
+
+.texte-description {
+    color: white;
+    padding: 10px;
+    margin: 20px;
+}
+
+.titre-presentation {
+    color: white;
+}
+
+
+.description-auteur {
+    text-decoration: none;
+    margin-left:0px;
+    margin-top: 30px;
+    color: white;
+    padding-left: 20px;
+}
+
+.auteur-title {
+    color: white;
+    
+}
+/******************  article 1 *******************/
+
+.titre-article-un {
+    color: white;
+   text-align: center;
+}
+
+.article-apex {
+    color: white;
 }
 
 .left { float: left; display: inline; }
